@@ -57,19 +57,24 @@ A **positive** value means the team did worse without the player. A **negative**
 ## Screenshots
 
 ### Top 10 injuries with the highest team performance drop
-![Bar chart](screenshots/01_top_injuries_bar_chart.png)
+<img width="1406" height="715" alt="image" src="https://github.com/user-attachments/assets/ab3a748c-e671-499d-938c-487d209840f1" />
+
 
 ### Player performance timeline (before and after injury)
-![Line chart](screenshots/02_player_timeline.png)
+<img width="1405" height="762" alt="image" src="https://github.com/user-attachments/assets/017b1ad7-9631-4324-8752-1d3afd9258f3" />
+
 
 ### Injury frequency across months and clubs
-![Heatmap](screenshots/03_injury_heatmap.png)
+<img width="1337" height="547" alt="image" src="https://github.com/user-attachments/assets/163fc547-ae41-4eb5-b07f-9cacd81d1be3" />
+
 
 ### Player age vs. performance drop index
-![Scatter plot](screenshots/04_age_vs_drop_scatter.png)
+<img width="1390" height="745" alt="image" src="https://github.com/user-attachments/assets/e081d364-fb8b-49ab-a5fb-1370886c5ebd" />
+
 
 ### Comeback leaderboard
-![Leaderboard](screenshots/05_comeback_leaderboard.png)
+<img width="1376" height="673" alt="image" src="https://github.com/user-attachments/assets/1687fd16-1f20-4662-8d61-961a989b595f" />
+
 
 ---
 
